@@ -9,3 +9,5 @@ https://github.com/weykon/Data-Science-For-Beginners
 https://github.com/weykon/data-science-N-machine-learning
 
 https://bbycroft.net/llm
+
+https://scikit-learn.org/stable/
