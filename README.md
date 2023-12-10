@@ -11,3 +11,5 @@ https://github.com/weykon/data-science-N-machine-learning
 https://bbycroft.net/llm
 
 https://scikit-learn.org/stable/
+
+good start on ComfyUI https://comfyanonymous.github.io/ComfyUI_tutorial_vn/
