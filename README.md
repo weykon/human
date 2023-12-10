@@ -13,3 +13,5 @@ https://bbycroft.net/llm
 https://scikit-learn.org/stable/
 
 good start on ComfyUI https://comfyanonymous.github.io/ComfyUI_tutorial_vn/
+
+game assets dev for me on comfyUI at everything https://github.com/weykon/touch-comfyui/tree/main
