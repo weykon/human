@@ -16,3 +16,10 @@ Model evaluation ( 模型评估 )
 Automatic parameter searches ( 自动参数搜索 )
 
 
+
+
+基本: 
+
+MSE （通常处理于回归问题）
+Cross-Entropy Loss （通常处理于分类问题）
+... 函数待添加
